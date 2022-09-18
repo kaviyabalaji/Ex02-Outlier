@@ -181,12 +181,8 @@ sns.boxplot(x="height",data=df5)
 # Weight - Shape of Dataset after removing Outliers using IQR method
 ![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/24b.png)
 # Weight - Without Outliers using IQR method
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/25b.png)
 # Height - With outliers
-![O](
-# Height - Dataset after removing Outliers using IQR method
-![O](
-# Height - Shape of Dataset after removing Outliers using IQR method
-![O](
-# Height - Without Outliers using IQR method
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/26b.png)
+# Result
+The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
