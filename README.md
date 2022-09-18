@@ -49,7 +49,7 @@ df.shape
 sns.boxplot(x="price_per_sqft",data=df)
 ```
 
-q1 = df['price_per_sqft'].quantile(0.25)
+```q1 = df['price_per_sqft'].quantile(0.25)
 q3 = df['price_Aper_sqft'].quantile(0.75)
 print("First Quantile =",q1,"\nSecond Quantile =",q3)
 
@@ -65,6 +65,7 @@ df1.shape
 sns.boxplot(x="price_per_sqft",data=df1)
 ```
 # 3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
+
 ```
 from scipy import stats
 
