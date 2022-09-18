@@ -169,17 +169,17 @@ sns.boxplot(x="height",data=df5)
 # Dataset Info
 ![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/18b.png)
 # Dataset Describe
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/19b.png)
 # Null Values
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/20b.png)
 # Dataset Shape
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/21b.png)
 # Weight - With outliers
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/22b.png)
 # Weight - Dataset after removing Outliers using IQR method
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/23b.png)
 # Weight - Shape of Dataset after removing Outliers using IQR method
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/24b.png)
 # Weight - Without Outliers using IQR method
 ![O](
 # Height - With outliers
