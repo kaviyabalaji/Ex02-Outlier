@@ -133,3 +133,60 @@ sns.boxplot(x="height",data=df5)
 ``
 ## Output
 # (1)(2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe
+![O](
+# Dataset Head
+![O](
+# Dataset Info
+![O](
+# Dataset Describe
+![O](
+# Null Values
+![O](
+# Dataset Shape
+![O](
+# Box plot of price_per_sqft column with outliers
+![O](
+# price_per_sqft - Dataset after removing outliers
+![O](
+# price_per_sqft - Shape of Dataset after removing outliers
+![O](
+# Box Plot of price_per_sqft column without outliers
+![O](
+## (3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
+![O](
+# Dataset after removal of outlier using z score
+![O](
+# Shape of Dataset after removal of outlier using z score
+![O](
+# price_per_sqft column after removing outliers
+![O](
+## (4) For the data set height_weight.csv detect weight and height outliers using IQR method
+![O](
+# Dataset
+![O](
+# Dataset Head
+![O](
+# Dataset Info
+![O](
+# Dataset Describe
+![O](
+# Null Values
+![O](
+# Dataset Shape
+![O](
+# Weight - With outliers
+![O](
+# Weight - Dataset after removing Outliers using IQR method
+![O](
+# Weight - Shape of Dataset after removing Outliers using IQR method
+![O](
+# Weight - Without Outliers using IQR method
+![O](
+# Height - With outliers
+![O](
+# Height - Dataset after removing Outliers using IQR method
+![O](
+# Height - Shape of Dataset after removing Outliers using IQR method
+![O](
+# Height - Without Outliers using IQR method
+![O](
