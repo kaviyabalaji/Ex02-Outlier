@@ -143,31 +143,31 @@ sns.boxplot(x="height",data=df5)
 # Null Values
 ![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/5b.png)
 # Dataset Shape
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/6b.png)
 # Box plot of price_per_sqft column with outliers
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/7b.png)
 # price_per_sqft - Dataset after removing outliers
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/8b.png)
 # price_per_sqft - Shape of Dataset after removing outliers
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/9b.png)
 # Box Plot of price_per_sqft column without outliers
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/10b.png)
 ## (3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/11b.png)
 # Dataset after removal of outlier using z score
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/12b.png)
 # Shape of Dataset after removal of outlier using z score
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/13b.png)
 # price_per_sqft column after removing outliers
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/14b.png)
 ## (4) For the data set height_weight.csv detect weight and height outliers using IQR method
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/15b.png)
 # Dataset
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/16b.png)
 # Dataset Head
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/17b.png)
 # Dataset Info
-![O](
+![O](https://github.com/kaviyabalaji/Ex02-Outlier/blob/main/18b.png)
 # Dataset Describe
 ![O](
 # Null Values
